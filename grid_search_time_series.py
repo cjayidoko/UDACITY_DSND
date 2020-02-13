@@ -3,6 +3,8 @@
 Created on Tue Feb 11 07:09:30 2020
 
 @author: chiji
+adapted from https://machinelearningmastery.com/how-to-grid-search-sarima-model
+-hyperparameters-for-time-series-forecasting-in-python/
 """
 import pandas as pd
 import numpy as np
